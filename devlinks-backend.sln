@@ -7,13 +7,13 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{430B1851-398
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "test", "test", "{AC274532-680C-4BF9-9B91-A3D98512D7CA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Devlinks.Domain", "Devlinks.Domain\Devlinks.Domain.csproj", "{6DFE7458-DA13-4F74-B412-8110E2E2E3DA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Devlinks.Domain", "Devlinks.Domain\Devlinks.Domain.csproj", "{6DFE7458-DA13-4F74-B412-8110E2E2E3DA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Devlinks.Application", "Devlinks.Application\Devlinks.Application.csproj", "{C6D23DE3-B0E1-497E-999A-775D5B47FCE3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Devlinks.Application", "Devlinks.Application\Devlinks.Application.csproj", "{C6D23DE3-B0E1-497E-999A-775D5B47FCE3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Infrastructure", "Infrastructure\Infrastructure.csproj", "{C28C7530-235E-44F0-9667-26C4EA548E58}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Devlinks.Infrastructure", "Infrastructure\Devlinks.Infrastructure.csproj", "{C28C7530-235E-44F0-9667-26C4EA548E58}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Devlinks.WebApi", "Devlinks.WebApi\Devlinks.WebApi.csproj", "{12BCC5DD-FAAA-4454-ABF7-03CB7E902527}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Devlinks.WebApi", "Devlinks.WebApi\Devlinks.WebApi.csproj", "{12BCC5DD-FAAA-4454-ABF7-03CB7E902527}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
